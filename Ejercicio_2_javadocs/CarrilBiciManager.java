@@ -1,4 +1,3 @@
-package javadocs_examen;
 
 import java.util.Collections;
 import java.util.HashMap;
